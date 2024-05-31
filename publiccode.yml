@@ -62,8 +62,8 @@ maintenance:
 name: Design React Kit
 platforms:
   - web
-releaseDate: '2024-05-02'
+releaseDate: '2024-03-14'
 roadmap: 'https://github.com/italia/design-react-kit/issues'
 softwareType: library
-softwareVersion: v5.0.4
+softwareVersion: v5.0.0-9
 url: 'https://github.com/italia/design-react-kit'
